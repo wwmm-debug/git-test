@@ -28,7 +28,7 @@ public class MyServer{
             }
 
         }
-        int n1=0;
+        int n1=1;
         int n2=0;
         n1=fA_number>sA_number?fA_number:sA_number;
         n2=fT_number>sT_number?fT_number:sT_number;
