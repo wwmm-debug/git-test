@@ -11,7 +11,7 @@ public class MyServer{
         int sA_number=0;
         int sT_number=0;
         int s_number=0;
-
+        int thrid=0;
         char[] chars = f.toCharArray();
         char[] chars1 = s.toCharArray();
         for (int i = 0; i <chars.length; i++) {
